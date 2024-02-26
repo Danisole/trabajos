@@ -7,6 +7,7 @@ import Suscribete from './components/pages/Suscribete';
 import Error from './components/pages/Error';
 import WhatsappBtn from './components/pequeñosComponentes/WhatsappBtn';
 import Footer from './components/footer/Footer';
+import Header from './components/pages/Header';
 
 
 
@@ -18,6 +19,7 @@ import Footer from './components/footer/Footer';
 
           <BrowserRouter>
             <Navbar/>
+            <Header/>
             <Routes>
               <Route path='/' exact element={<Inicio/>}/>
               <Route path='/nosotros' element={<Nosotros/>}/>

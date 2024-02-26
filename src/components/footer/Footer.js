@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
         </div>
         <div className='lastFooter'>
-            <p>Sitio creado por <a className='nav-link' href='https://www.instagram.com/insidedevsj?utm_source=qr&igsh=aWdrMW02YXRwZm90' target={"_blanc"}>InsideDev</a> </p>
+            <p>Sitio creado por</p> <a className='ml-4 nav-link' href='https://www.instagram.com/insidedevsj?utm_source=qr&igsh=aWdrMW02YXRwZm90' target={"_blanc"}>InsideDev</a>
             <p>© 2024 - Todos los derechos reservados</p>
         </div>
     
