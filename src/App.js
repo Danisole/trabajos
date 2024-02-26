@@ -6,6 +6,7 @@ import Nosotros from './components/pages/Nosotros';
 import Suscribete from './components/pages/Suscribete';
 import Error from './components/pages/Error';
 import WhatsappBtn from './components/pequeñosComponentes/WhatsappBtn';
+import Footer from './components/footer/Footer';
 
 
 
@@ -27,7 +28,7 @@ import WhatsappBtn from './components/pequeñosComponentes/WhatsappBtn';
           <WhatsappBtn/>         
 
                 
-          
+          <Footer/>
         </div>
     );
   }
