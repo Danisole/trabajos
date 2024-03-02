@@ -10,7 +10,6 @@ const Footer = () => {
                 <div className='row'>
                     <div className='col-md-6 col-lg-5 col-12 ft-1 text-xs' >
                         <h3 className='text-center'>LOGO</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus dicta eius, delectus ipsa consequatur vel tempora soluta! Sunt sint cupiditate culpa atque nam. Assumenda accusamus sed quam explicabo, blanditiis exercitationem?</p>
                         <div className='footerIcon text-center'>
                             <i class="fab fa-facebook"></i>
                             <i class="fab fa-twitter"></i>
