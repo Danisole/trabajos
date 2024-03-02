@@ -7,7 +7,7 @@ import Suscribete from './components/pages/Suscribete';
 import Error from './components/pages/Error';
 import WhatsappBtn from './components/pequeñosComponentes/WhatsappBtn';
 import Footer from './components/footer/Footer';
-import Logo from './components/pages/Logo';
+import Carrusel from './components/carrusel/Carrusel';
 
 
 
@@ -20,7 +20,7 @@ import Logo from './components/pages/Logo';
 
           <BrowserRouter>
             <Navbar/>
-            <Logo/>
+            <Carrusel/>
             <Routes>
               <Route path='/' exact element={<Inicio/>}/>
               <Route path='/nosotros' element={<Nosotros/>}/>
